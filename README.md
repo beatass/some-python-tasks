@@ -1,4 +1,3 @@
-# property-prices
-The analysis of the second-hand property prices by area and by year in Irleand
+# some python tasks
 
-Here analysis of the second-hand property prices by area and by year in Irleand will be given.
+Here there are a handful of some python tasks which I have made during the training: 'Basics of Python' conducted by Akademia kodu.
